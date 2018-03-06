@@ -1,0 +1,17 @@
+
+Package: integrateIt
+Title: Integrating curves using trapezoid and simpson methods
+Version: 0.1
+Author: Marcus Hallman
+Maintainer: This Idiot <hallman@wustl.edu>
+  Description: Find area under a curve badly
+Depends:
+  R (>= 3.0.0),
+methods
+License: GPL (>= 2)
+Suggests:
+Collate:
+  'integrateIt.R'
+  'simpson.R'
+  'trapezoid.R'
+RoxygenNote: 6.0.1

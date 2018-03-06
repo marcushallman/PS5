@@ -1,0 +1,5 @@
+exportClasses(trapezoid)
+exportClasses(simpson)
+exportMethods(integrateIt)
+exportMethods(initialize)
+exportMethods(print)
